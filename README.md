@@ -7,7 +7,7 @@ Sigo aprendiendo cómo crear aplicaciones web que sean funcionales y atractivas.
 
 ## Aprendiendo Nuevas Tecnologías 🚀
 
-Siempre estoy en busca de nuevos conocimientos y habilidades. Aquí te cuento un poco sobre en qué estoy enfocado ahora:
+Siempre estoy en busca de nuevos conocimientos y habilidades. Aquí te cuento un poco sobre en qué estoy enfocada ahora:
 
 - ![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto)
 : Dominando el lenguaje de marcado para estructurar y presentar contenido en la web.
@@ -26,6 +26,11 @@ Siempre estoy en busca de nuevos conocimientos y habilidades. Aquí te cuento un
 ## ¡Conectemos! 🤝
 
 Estoy emocionada por todo lo que el futuro tiene preparado en este campo tan dinámico. Siempre estoy abierto a conectar con personas nuevas, compartir conocimientos y colaborar en proyectos interesantes. ¡No dudes en contactarme! 🌟
+
+- **Correo**📧:![Static Badge](https://img.shields.io/badge/gmail-%23EA4335?style=social&logo=Gmail&logoSize=auto&labelColor=red&color=white&link=monicut3%40gmail.com)
+- **LinkedIn**🔗: ![Static Badge](https://img.shields.io/badge/linkedin-%230A66C2?style=social&logo=LinkedIn&logoSize=auto&labelColor=blue&color=white&link=www.linkedin.com%2Fin%2F%20m%C3%B3nica-m-serna-s)
+
+
 
 <!--
 **monicaSernaS/monicaSernaS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
