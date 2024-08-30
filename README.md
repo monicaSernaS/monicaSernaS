@@ -25,10 +25,10 @@ Siempre estoy en busca de nuevos conocimientos y habilidades. Aquí te cuento un
 
 ## ¡Conectemos! 🤝
 
-Estoy emocionada por todo lo que el futuro tiene preparado en este campo tan dinámico. Siempre estoy abierto a conectar con personas nuevas, compartir conocimientos y colaborar en proyectos interesantes. ¡No dudes en contactarme! 🌟
+Estoy emocionada por todo lo que el futuro tiene preparado en este campo tan dinámico. Siempre estoy abierta a conectar con personas nuevas, compartir conocimientos y colaborar en proyectos interesantes. ¡No dudes en contactarme! 🌟
 
 - **Correo**📧:![Static Badge](https://img.shields.io/badge/gmail-%23EA4335?style=social&logo=Gmail&logoSize=auto&labelColor=red&color=white&link=monicut3%40gmail.com)
-- **LinkedIn**🔗: ![Static Badge](https://img.shields.io/badge/linkedin-%230A66C2?style=social&logo=LinkedIn&logoSize=auto&labelColor=blue&color=white&link=www.linkedin.com%2Fin%2F%20m%C3%B3nica-m-serna-s)
+- **LinkedIn**🔗: ![Static Badge](https://img.shields.io/badge/linkedin-%230A66C2?style=social&logo=LinkedIn&logoSize=auto&labelColor=blue&color=white&link=www.linkedin.com/in/monicasernasantander)
 
 
 
