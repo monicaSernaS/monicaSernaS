@@ -5,6 +5,7 @@
  🌟La vida nos lleva por caminos inesperados que a veces nos cambian por completo. En mi caso, esos giros me impulsaron a reinventarme.
  
  🎢 Ante este desafío, opté por empezar de cero y descubrí la programación, decidí aventurarme en el mundo del desarrollo web y sigo aprendiendo cómo crear aplicaciones web que sean funcionales y atractivas.  
+ 
  💻✨ Estoy comprometida con el mundo tecnológico para convertirme en una profesional competente y adaptarme a un entorno lleno de posibilidades. 🚀
 
 📚 Actualmente, estoy cursando el Grado Superior en Desarrollo de Aplicaciones Web y participando en un Bootcamp de Desarrollo Full Stack Web.
