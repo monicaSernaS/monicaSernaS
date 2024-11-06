@@ -2,8 +2,12 @@
 
 ## Iniciando en el Desarrollo Web Full Stack 🌟
 
-Hace poco tiempo decidí aventurarme en el mundo del desarrollo web. 
-Sigo aprendiendo cómo crear aplicaciones web que sean funcionales y atractivas. 
+ 🌟La vida nos lleva por caminos inesperados que a veces nos cambian por completo. En mi caso, esos giros me impulsaron a reinventarme.
+ 🎢 Ante este desafío, opté por empezar de cero y descubrí la programación, decidí aventurarme en el mundo del desarrollo web y sigo aprendiendo cómo crear aplicaciones web que sean funcionales y atractivas.  
+ 💻✨ Estoy comprometida con el mundo tecnológico para convertirme en una profesional competente y adaptarme a un entorno lleno de posibilidades. 🚀
+
+📚 Actualmente, estoy cursando el Grado Superior en Desarrollo de Aplicaciones Web y participando en un Bootcamp de Desarrollo Full Stack Web.
+
 
 ## Aprendiendo Nuevas Tecnologías 🚀
 
@@ -20,8 +24,6 @@ Siempre estoy en busca de nuevos conocimientos y habilidades. Aquí te cuento un
 - ![Static Badge](https://img.shields.io/badge/postSQL-%234169E1?style=for-the-badge&logo=postgreSql&logoColor=%234169E1&logoSize=auto&labelColor=white&color=%234169E1)
 ![Static Badge](https://img.shields.io/badge/mySql-%234479A1?style=for-the-badge&logo=mySQL&logoColor=%234479A1&logoSize=auto&labelColor=white&color=%234479A1)
 : Aprendiendo a manejar bases de datos como un profesional para que mis aplicaciones manejen la información de manera eficiente.
-- ![Static Badge](https://img.shields.io/badge/bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=%237952B3&logoSize=auto&labelColor=white&color=%237952B3)
-: Experimentando con este framework para diseñar interfaces de usuario bonitas y responsivas.
 
 ## ¡Conectemos! 🤝
 
