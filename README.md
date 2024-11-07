@@ -1,39 +1,43 @@
 ##  ¡Hi there, I´m Mónica! 👋
 
-## Iniciando en el Desarrollo Web Full Stack 🌟
+### Comenzando en el Desarrollo Web Full Stack 🌟
 
- 🌟La vida nos lleva por caminos inesperados que a veces nos cambian por completo. En mi caso, esos giros me impulsaron a reinventarme.
- 
- 🎢 Ante este desafío, opté por empezar de cero y descubrí la programación, decidí aventurarme en el mundo del desarrollo web y sigo aprendiendo cómo crear aplicaciones web que sean funcionales y atractivas.  
- 
- 💻✨ Estoy comprometida con el mundo tecnológico para convertirme en una profesional competente y adaptarme a un entorno lleno de posibilidades. 🚀
+🌟 La vida a menudo nos lleva por caminos inesperados que pueden transformarnos por completo. En mi caso, esos giros me llevaron a reinventarme.
+
+🎢 Haciendo frente a este desafío, descubrí la programación 💻 y me animé a explorar el mundo del desarrollo web, sigo aprendiendo a crear aplicaciones que sean útiles, funcionales y visualmente atractivas.
+
+✨ Estoy comprometida con el mundo tecnológico para convertirme en una profesional competente y adaptarme a un entorno lleno de posibilidades. 🚀
 
 📚 Actualmente, estoy cursando el Grado Superior en Desarrollo de Aplicaciones Web y participando en un Bootcamp de Desarrollo Full Stack Web.
 
-
-## Aprendiendo Nuevas Tecnologías 🚀
+### Aprendiendo Nuevas Tecnologías 🚀
 
 Siempre estoy en busca de nuevos conocimientos y habilidades. Aquí te cuento un poco sobre en qué estoy enfocada ahora:
 
-- ![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto)
-: Dominando el lenguaje de marcado para estructurar y presentar contenido en la web.
-- ![Static Badge](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=CSS3&logoColor=white&logoSize=auto)
-: Aprendiendo a diseñar y estilizar sitios web para que sean atractivos y responsivos.
-- ![Static Badge](https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=%23F7DF1E&logoSize=auto&color=black)
-: Utilizando este lenguaje para añadir interactividad y dinamismo a las páginas web.
-- ![Static Badge](https://img.shields.io/badge/java-red?style=for-the-badge&logo=java&logoColor=%23F7DF1E&logoSize=auto)
-: Sumergiéndome en este poderoso lenguaje para entender sus profundidades.
-- ![Static Badge](https://img.shields.io/badge/postSQL-%234169E1?style=for-the-badge&logo=postgreSql&logoColor=%234169E1&logoSize=auto&labelColor=white&color=%234169E1)
-![Static Badge](https://img.shields.io/badge/mySql-%234479A1?style=for-the-badge&logo=mySQL&logoColor=%234479A1&logoSize=auto&labelColor=white&color=%234479A1)
-: Aprendiendo a manejar bases de datos como un profesional para que mis aplicaciones manejen la información de manera eficiente.
+- ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto) : Dominando el lenguaje de marcado para estructurar y presentar contenido en la web.
+- ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=CSS3&logoColor=white&logoSize=auto) : Aprendiendo a diseñar y estilizar sitios web para que sean atractivos y responsivos.
+- ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=%23F7DF1E&logoSize=auto&color=black) : Utilizando este lenguaje para añadir interactividad y dinamismo a las páginas web.
+- ![Java](https://img.shields.io/badge/java-red?style=for-the-badge&logo=java&logoColor=%23F7DF1E&logoSize=auto) : Sumergiéndome en este poderoso lenguaje para entender sus profundidades.
+- ![PostgreSQL](https://img.shields.io/badge/postSQL-%234169E1?style=for-the-badge&logo=postgreSql&logoColor=%234169E1&logoSize=auto&labelColor=white&color=%234169E1) ![MySQL](https://img.shields.io/badge/mySql-%234479A1?style=for-the-badge&logo=mySQL&logoColor=%234479A1&logoSize=auto&labelColor=white&color=%234479A1) : Aprendiendo a manejar bases de datos como un profesional para que mis aplicaciones manejen la información de manera eficiente.
+- 🌱 Estoy interesada en aprender más sobre **Java**, **React**, **Spring Boot**, **Laravel** y **Angular** para ampliar mis habilidades y conocimientos en desarrollo full stack.
 
-## ¡Conectemos! 🤝
+### Un Poco Más Sobre Mí 🤔
+
+- 🔭 Actualmente estoy trabajando en mejorar mis habilidades en **React** y **Node.js** para desarrollar aplicaciones full stack completas.
+- 🌱 Estoy aprendiendo **TypeScript** para escribir código más robusto y mantener proyectos a largo plazo.
+- 👯 Estoy buscando colaborar en proyectos open-source para mejorar mis habilidades y contribuir a la comunidad.
+- 🤔 Busco ayuda en **mejores prácticas de arquitectura de software** y **optimización de rendimiento**.
+- 💬 Pregúntame sobre mi viaje en la programación, sobre Paraguay o viajes.
+- 📫 ¿Cómo contactarme? [monicut3@gmail.com](mailto:monicut3@gmail.com)
+- 😄 Pronombres: Ella
+- ⚡ Dato curioso: Me encanta aprender idiomas.
+
+### ¡Conectemos! 🤝
 
 Estoy emocionada por todo lo que el futuro tiene preparado en este campo tan dinámico. Siempre estoy abierta a conectar con personas nuevas, compartir conocimientos y colaborar en proyectos. ¡No dudes en contactarme! 🌟
 
-- **Correo**📧:![Static Badge](https://img.shields.io/badge/gmail-%23EA4335?style=social&logo=Gmail&logoSize=auto&labelColor=red&color=white&link=monicut3%40gmail.com)
-- **LinkedIn**🔗: ![Static Badge](https://img.shields.io/badge/linkedin-%230A66C2?style=social&logo=LinkedIn&logoSize=auto&labelColor=blue&color=white&link=https://www.linkedin.com/in/monicasernasantander)
-
+- **Correo**📧: [monicut3@gmail.com](mailto:monicut3@gmail.com)
+- **LinkedIn**🔗: [Mónica Serna Santander](https://www.linkedin.com/in/monicasernasantander)
 
 
 <!--
