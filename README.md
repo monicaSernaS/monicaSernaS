@@ -20,7 +20,7 @@ Siempre estoy en busca de nuevos conocimientos y habilidades. Aquí te cuento un
 - ![Java](https://img.shields.io/badge/java-red?style=for-the-badge&logo=java&logoColor=%23F7DF1E&logoSize=auto) : Sumergiéndome en este poderoso lenguaje para entender sus profundidades.
 - ![PostgreSQL](https://img.shields.io/badge/postSQL-%234169E1?style=for-the-badge&logo=postgreSql&logoColor=%234169E1&logoSize=auto&labelColor=white&color=%234169E1) ![MySQL](https://img.shields.io/badge/mySql-%234479A1?style=for-the-badge&logo=mySQL&logoColor=%234479A1&logoSize=auto&labelColor=white&color=%234479A1) : Aprendiendo a manejar bases de datos como un profesional para que mis aplicaciones manejen la información de manera eficiente.
   
-- 🌱 Estoy interesada en aprender más sobre **Java**, **React**, **Spring Boot**, **Laravel** y **Angular** para ampliar mis habilidades y conocimientos en desarrollo full stack.
+- 🌱 Estoy interesada en aprender más sobre **Spring Boot**, **Laravel** y **Angular** para ampliar mis habilidades y conocimientos en desarrollo full stack.
 
 ### Un Poco Más Sobre Mí 🤔
 
