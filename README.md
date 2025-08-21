@@ -8,8 +8,6 @@
 
 ✨ Estoy comprometida con el mundo tecnológico para convertirme en una profesional competente y adaptarme a un entorno lleno de posibilidades. 🚀
 
-📚 Actualmente, estoy cursando el Grado Superior en Desarrollo de Aplicaciones Web y participando en un Bootcamp de Desarrollo Full Stack Web.
-
 ### Aprendiendo Nuevas Tecnologías 🚀
 
 Siempre estoy en busca de nuevos conocimientos y habilidades. Aquí te cuento un poco sobre en qué estoy enfocada ahora:
